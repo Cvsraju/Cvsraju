@@ -1,6 +1,6 @@
 - 👋 c.venkata sai harsha vardhan raju
 - 👀 Reading books,stock marketing,cricket,Badminton  ...
-- 🌱 web development(Fornt-End).
+- 🌱 java developer.
 - 💞️ I am intersted to collaborate with software company...
 - 📫 cvharsha9@gmail.com..
 
